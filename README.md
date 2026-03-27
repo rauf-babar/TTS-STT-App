@@ -4,7 +4,7 @@
 
 ## Overview
 
-Speakify is a native desktop application providing offline Text-to-Speech (TTS) and Speech-to-Text (STT) capabilities. Built with Python, it utilizes local machine learning models and native system voices to ensure privacy and fast processing times without requiring an internet connection.
+A native desktop application providing offline Text-to-Speech (TTS) and Speech-to-Text (STT) capabilities. Built with Python, it utilizes local machine learning models and native system voices to ensure privacy and fast processing times without requiring an internet connection.
 
 The application features a modern graphical user interface designed for intuitive interaction, complete with multi-threading to ensure the UI remains responsive during audio processing operations.
 
